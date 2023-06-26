@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrea-Rivera
 - 👀 I’m interested in programming web pages
-- 🌱 I’m currently learning JavaScript and C#
-- 💞️ I’m looking to collaborate on projects where I can start practising real world applications using HTML, CSS and JavaScript
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects where I can start practising real world applications using HTML, CSS and JavaScript and React.
 - 📫 How to reach me: By email andita54@hotmail.com
 
 <!---
